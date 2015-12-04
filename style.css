@@ -1,0 +1,53 @@
+header {
+  text-align: center;
+}
+
+.bg-light-gray{
+        background-color: #f7f7f7;
+
+}
+body {
+  color: #777;
+}
+h1,h2,h3,h4,h5,h6 {
+  color:#333;
+  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+a {
+  color:#71b43d;
+}
+label{
+  font-family: "Kaushan Script", "Helvetica Neue", Helvetica, Arial, cursive;
+}
+img {
+  float: right;
+
+}
+
+footer{
+  text-align: center;
+  font-size:15px;
+  background-color: #fff;
+}
+
+ul {
+  list-style-type:circle;
+
+}
+header {
+  background-color: #ffffff;
+  font-size:30px;
+
+}
+span{
+  color:#71B43D;
+}
+ header{
+   color:#C1D44D;
+ }
+ #texte{
+   text-decoration: underline;
+ }
+ h2 {
+   color: #C1D44D;
+ }
