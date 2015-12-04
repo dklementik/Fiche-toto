@@ -1,19 +1,40 @@
+TITRE : NOM PRENOM | Còdi n Camp - Promo 1
 
-Prénom:Damien
-Nom du fichier photo: photo.png
+HEADER : NOM PRENOM - Promo 1
 
-date de naissance:13/10/1987
+Nom
 
-Nom:Klementik
+Prénom
+
+Ville
+
+Age
+
+Email
+
+----------------------------------------
+
+Biographie
+
+----------------------------------------
+
+Objectif après Còdi n Camp
+
+----------------------------------------
+
+Projets
+
+	Réalisée
+
+	En cours
+
+----------------------------------------
+
+Loisirs
+----------------------------------------
+
+FOOTER © - Còdi n Camp - 2015 - CC BY SA-NC
 
 
-Adresse: place jean jaurès consignojouls 
 
-Adrdesse email: klementikdamien@gmail.com	
-
-Biographie: Je vie une vie une passionnante 
-
-Projets pro futurs:J'aimerais devenir un expert dans le codage 
-
-Hobbies: Sport(Rugby, Ski);Lecture Randonnée
 
