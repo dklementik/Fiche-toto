@@ -47,6 +47,7 @@ h1,h2,h3,h4,h5,h6 {
 }
 header ul li a {
   color:#71b43d;
+  text-decoration: none;
 }
 label{
   font-family: "Kaushan Script", "Helvetica Neue", Helvetica, Arial, cursive;
@@ -55,6 +56,13 @@ label{
   float: right;
 
 }*/
+.menu a:hover {
+color:white;
+text-decoration:none;
+background-color:#71b43d;
+border: 10px solid #71b43d ;
+border-radius: 5px;
+}
 
 footer{
   text-align: center;
@@ -81,6 +89,9 @@ span{
 
 strong {
   float: left;
+}
+section{
+  height: 220px;
 }
 
 
@@ -110,6 +121,12 @@ nav{
   width: 960px;
   display: block;
   margin: auto;
+}
+img{
+  width: 150px;
+  height: 200px;
+  box-shadow: 5px 5px 20px;
+  border-radius: 10px;
 }
 
 .trombi li img{
@@ -148,4 +165,52 @@ nav{
 .zoomImage{
   zoom:150%;
   -moz-transform:scale(2);
+}
+.contact{
+  color: #BBCD4B;
+  /*font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;*/
+  font-family: "Kaushan Script", "Helvetica Neue", Helvetica, Arial, cursive;
+  text-align: center;
+}
+i{
+   color: #BBCD4B;}
+label{
+  color:#71B43D;
+  font-family: "Kaushan Script", "Helvetica Neue", Helvetica, Arial, cursive;
+  font-size: 16px;
+  font-weight: bold;
+}
+header ul li a {
+  color:#71b43d;
+}
+
+button{
+  color: green;
+  border-radius: 16px;
+}
+
+.centrer{
+  text-align: center;
+}
+
+form {
+    margin: 20px auto;
+    width: 400px;
+    padding: 1em;
+    border: 1px solid #CCC;
+    border-radius: 1em;
+    cursor: pointer;
+    box-shadow:5px 5px 15px #333;
+}
+
+form div + div {
+    margin-top: 1em;
+}
+
+input{
+  border-radius: 16px;
+  /*background-color: green;*/
+}
+.obligatoire{
+  color: red;
 }
